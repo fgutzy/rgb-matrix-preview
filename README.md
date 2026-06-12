@@ -37,7 +37,7 @@ This tool provides an instant visual preview directly in the browser, making it 
 
 ## Getting Started
 
-1. Open [matrixdisplay.ink](https://matrixdisplay.ink)
+1. Open [https://matrixdisplay.ink](https://matrixdisplay.ink)
 
    OR
 1. Download/clone the repository.
