@@ -37,7 +37,10 @@ This tool provides an instant visual preview directly in the browser, making it 
 
 ## Getting Started
 
-1. Download or clone the repository.
+1. Open [matrixdisplay.ink](https://matrixdisplay.ink)
+
+   OR
+1. Download/clone the repository.
 2. Open `index.html` in a modern web browser.
 3. Adjust the matrix dimensions to match your display.
 4. Enter your text.
@@ -45,14 +48,9 @@ This tool provides an instant visual preview directly in the browser, making it 
 
 No installation or build process is required.
 
-## Example
+# Lowercase letters
 
-A 64×32 display can be simulated by setting:
-
-* Columns: 64
-* Rows: 32
-
-The preview updates immediately as you type.
+Line spacing might look off, as its calculated on the lowest possible point of any letters (i.e. q goes below the "normal" line), even if theyre not used in the text. 
 
 ## Technical Notes
 
