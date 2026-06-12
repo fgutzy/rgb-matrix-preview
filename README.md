@@ -4,6 +4,9 @@ A simple browser-based preview tool for RGB LED matrix displays.
 
 This tool lets you quickly test how much text fits on a matrix display without having to repeatedly upload firmware, flash a device, or physically test on hardware.
 
+<img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/8ef8a479-28c3-420f-8f84-8039ea2c75c1" />
+
+
 ## Features
 
 * Adjustable matrix dimensions (width and height in pixels)
